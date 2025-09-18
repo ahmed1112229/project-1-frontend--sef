@@ -125,7 +125,7 @@ body {
 /* ---------------------------------------------------------------(home)--------------------------------------------------------- */
 
 .home {
-  background-image: url(../IMG/laptop\ img.jpg);
+  background-image: url(../laptop\ img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -323,7 +323,7 @@ body {
 .products {
   height: 200px;
   width: 320px;
-  background-image: url(../IMG/laptop\ img.jpg);
+  background-image: url(../laptop\ img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   float: left;
@@ -333,37 +333,37 @@ body {
 }
 
 .product1 {
-  background-image: url(../IMG/laptop\ img\ 1.jpg);
+  background-image: url(../laptop\ img\ 1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .product2 {
-  background-image: url(../IMG/laptop\ img\ 2.jpg);
+  background-image: url(../laptop\ img\ 2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .product3 {
-  background-image: url(../IMG/laptop\ img\ 3.jpg);
+  background-image: url(../laptop\ img\ 3.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .product4 {
-  background-image: url(../IMG/laptop\ img\ 4.jpg);
+  background-image: url(../laptop\ img\ 4.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .product5 {
-  background-image: url(../IMG/laptop\ img\ 5.jpg);
+  background-image: url(../laptop\ img\ 5.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .product6 {
-  background-image: url(../IMG/laptop\ img\ 6.jpg);
+  background-image: url(../laptop\ img\ 6.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -541,7 +541,7 @@ body {
 }
 
 .whychooseus-img-container {
-  background-image: url(../IMG/laptop\ img\ 1.jpg);
+  background-image: url(../laptop\ img\ 1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   left: 880px;
@@ -630,7 +630,7 @@ body {
 .sec6 {
   width: 100%;
   height: 60vh;
-  background-image: url(../IMG/laptop\ img\ 2.jpg);
+  background-image: url(../laptop\ img\ 2.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -783,7 +783,7 @@ body {
 .sec8 {
   width: 100%;
   height: 60vh;
-  background-image: url(../IMG/laptop\ img\ 7.jpg);
+  background-image: url(../laptop\ img\ 7.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -896,15 +896,15 @@ body {
 }
 
 .team-persons-img-1 {
-  background-image: url(../img/man\ img\ 8.jpg);
+  background-image: url(../man\ img\ 8.jpg);
 }
 
 .team-persons-img-2 {
-  background-image: url(../img/man\ img\ 7.jpg);
+  background-image: url(../man\ img\ 7.jpg);
 }
 
 .team-persons-img-3 {
-  background-image: url(../img/man\ img\ 6.jpg);
+  background-image: url(../man\ img\ 6.jpg);
 }
 
 .team-persons-img-overlay {
@@ -1035,15 +1035,15 @@ body {
 }
 
 .news-div-img-1 {
-  background-image: url(../img/man\ img\ 3.jpg);
+  background-image: url(../man\ img\ 3.jpg);
 }
 
 .news-div-img-2 {
-  background-image: url(../img/man\ img\ 4.jpg);
+  background-image: url(../man\ img\ 4.jpg);
 }
 
 .news-div-img-3 {
-  background-image: url(../img/man\ img\ 5.jpg);
+  background-image: url(../man\ img\ 5.jpg);
 }
 
 .news-div-name{
@@ -1141,7 +1141,7 @@ body {
 }
 
 .footer-img{
-  background-image: url(../img/laptop\ img\ 9.jpg);
+  background-image: url(../laptop\ img\ 9.jpg);
   background-size: cover;
   position: absolute;
   height: 200px;
